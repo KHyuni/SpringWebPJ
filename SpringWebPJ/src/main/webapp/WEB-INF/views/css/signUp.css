@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+
+#signUpForm {
+	padding : 10px 0px 0px 35px;
+}
+
+/* #addrPopup {
+	position:absolute;
+    top:0;
+    left:0;
+    width:850px;
+    height:900px;
+} */
+
+.sendBtn {
+	margin: 15px 0px 0px 0px;
+}
+
+.checkMsg {
+	font-size: 9px;
+	color : #FF0000;
+}

@@ -1,0 +1,206 @@
+@CHARSET "UTF-8";
+
+.addrTitle {
+	background-color: #2C6F91;
+	color: #FFFFFF;
+	font-size: 20px;
+	font-weight : bold;
+	width: 600px;
+	height: 30px;
+	margin: 15px 0px 0px 15px;
+}
+
+.notice {
+	font-weight : bold;
+	color: #3491C2;
+	margin : 15px 0px 0px 15px;
+}
+
+.checkBoxArea {
+	background-color : #C4C4C4;
+	border : 1px solid;
+	font-size : 18px;
+	width: 598px;
+	height : 40px;
+	margin : 15px 0px 0px 15px;
+	padding : 7px 0px 0px 0px;
+}
+
+.checkForSearch {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.totalCnt {
+	width: 598px;
+	height : 10px;
+	padding : 5px 0px 3px 15px;
+	text-align: right;
+	font-size: 18px;
+}
+
+.selectBoxArea {
+	width: 598px;
+	height : 90px;
+	margin : 15px 0px 0px 15px;
+	font-size: 20px;
+	border : 1px solid;
+}
+
+.innerBox1 {
+	margin : 10px 0px 0px 0px;
+}
+
+#innerBox2 { 
+	margin : 10px 0px 0px 2px;
+}
+
+#innerBox3 {
+	margin : 10px 0px 0px 7px;
+}
+
+.selectBox1 {
+	width : 148px;
+	height : 30px;
+	font-size : 18px;
+}
+
+.selectBox2 {
+	width : 143px;
+	height : 30px;
+	font-size : 18px;
+}
+
+.roadName {
+	width : 143px;
+	height : 20px;
+	font-size : 15px;
+}
+
+.buildingBonbun {
+	width : 55px;
+	height : 20px;
+	font-size: 15px;
+	margin : 0px 0px 0px 3px;
+}
+
+.buildingBubun {
+	width : 55px;
+	height : 20px;
+	font-size: 15px;	
+}
+
+.buildingName {
+	width : 412px;
+	height : 20px;
+	font-size: 15px;
+	margin : 0px 0px 0px 0px;
+}
+
+.searchBtn {
+	margin : 0px 0px 0px 18px;
+	width : 70px;
+	height : 30px;
+	background-color: #2C6F91;
+	font-size : 15px;
+/* 	font-weight : bold; */
+	color: #FFFFFF;
+}
+
+.addressArea {
+	width: 598px;
+	height : 200px;
+	border : 1px solid;
+	margin : 10px 0px 0px 15px;
+}
+
+.innerAddressTb {
+	width : 598px;
+	height : 200px;
+}
+
+.addrAreaTitle {
+	font-size: 17px;
+	font-weight: bold;
+	margin : 0px 0px 0px 30px;
+	background-color: #C4C4C4;
+}
+
+.zipcodeTitle {
+	padding : 0px 0px 0px 4px;
+	width : 108px;
+	height : 25px;
+	text-align: center;
+}
+
+.addressTitle {
+	padding : 0px 0px 0px 220px;
+	width : 490px;
+	height : 25px;
+}
+
+.addrLastArea {
+	width : 598px;
+	height : 75px;
+	border : 1px solid;
+	margin : 15px 0px 0px 15px;
+	background-color: #DEEBF7;
+}
+
+.roadNameAddr {
+	color : #255AA1;
+	font-size: 17px;
+	font-weight: bold;
+	padding : 7px 0px 0px 10px;
+}
+
+.detailAddr {
+	color : #255AA1;
+	font-size: 17px;
+	font-weight: bold;
+	padding : 7px 0px 0px 10px;
+}
+
+.addr1 {
+	width : 75px;
+	height : 23px;
+	font-size: 18px;
+	background-color: #DEEBF7;
+	margin : 0px 5px 0px 50px;
+}
+
+.addr2 {
+	width : 360px;
+	height : 20px;
+	font-size: 18px;
+	background-color: #DEEBF7;
+	margin : 0px 0px 0px 0px;
+}
+
+.addr3 {
+	width : 265px;
+	height : 20px;
+	font-size : 18px;
+	margin : 0px 5px 0px 33px;
+}
+
+.addr4 {
+	width : 170px;
+	height : 20px;
+	font-size : 16px;
+	background-color: #DEEBF7;
+	margin : 0px 0px 0px 0px;
+}
+
+.saveBtnArea {
+	margin : 15px 0px 0px 290px;
+}
+
+.saveBtn {
+	width : 60px;
+	height : 30px;
+	color : #FFFFFF;
+	font-size : 15px;
+	/* font-weight : bold;  */
+	background-color: #2C6F91; 
+}
